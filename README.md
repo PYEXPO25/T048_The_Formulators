@@ -26,6 +26,8 @@ cd https://github.com/PYEXPO25/T048_The_Formulators.git
 3. Install dependencies:
     none
 
+ppt link: https://drive.google.com/file/d/1T4FocxqaMpo4Pz8n1MT_1ZmWHt-FEgdf/view?usp=drive_link
+
 
 
 
