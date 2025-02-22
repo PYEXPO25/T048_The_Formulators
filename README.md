@@ -10,21 +10,21 @@ Providing tools to track sales, manage inventory, and grow their business.
 
 Dependencies
 The following dependencies are required to run this project:
-- [Dependency 1] (version)
-- [Dependency 2] (version)
-- [Dependency 3] (version)
+- JSON 
+- HTML
+- CSS
 
-You can install these dependencies using the following command:
-pip install -r requirements.txt
+You can import these dependencies using the following command:
+pip import json
 
 Setup
 1. Clone the repository:
-git clone https://github.com/your-username/your-repository.git
-
+git clone https://github.com/PYEXPO25/T048_The_Formulators.git
 2. Navigate to the project directory:
-cd your-repository
+cd https://github.com/PYEXPO25/T048_The_Formulators.git
 
 3. Install dependencies:
+    none
 
 
 
