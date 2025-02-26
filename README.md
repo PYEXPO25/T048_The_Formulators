@@ -27,7 +27,7 @@ cd https://github.com/PYEXPO25/T048_The_Formulators.git
     none
 
 ppt link: https://drive.google.com/file/d/1T4FocxqaMpo4Pz8n1MT_1ZmWHt-FEgdf/view?usp=drive_link
-
+demo video link: https://drive.google.com/file/d/11XHSBbztSntYXhMTMpUe-Y50eJ9bz7iT/view?usp=drivesdk
 
 
 
